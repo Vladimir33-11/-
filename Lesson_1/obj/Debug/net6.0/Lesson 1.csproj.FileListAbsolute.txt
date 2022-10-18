@@ -1,0 +1,30 @@
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.csproj.AssemblyReference.cache
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.AssemblyInfoInputs.cache
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.AssemblyInfo.cs
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.csproj.CoreCompileInputs.cache
+/Users/vladimirermolaev/Desktop/Lesson 1/bin/Debug/net6.0/Lesson 1
+/Users/vladimirermolaev/Desktop/Lesson 1/bin/Debug/net6.0/Lesson 1.deps.json
+/Users/vladimirermolaev/Desktop/Lesson 1/bin/Debug/net6.0/Lesson 1.runtimeconfig.json
+/Users/vladimirermolaev/Desktop/Lesson 1/bin/Debug/net6.0/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Lesson 1/bin/Debug/net6.0/Lesson 1.pdb
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/refint/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.pdb
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/Lesson 1.genruntimeconfig.cache
+/Users/vladimirermolaev/Desktop/Lesson 1/obj/Debug/net6.0/ref/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/bin/Debug/net6.0/Lesson 1
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/bin/Debug/net6.0/Lesson 1.deps.json
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/bin/Debug/net6.0/Lesson 1.runtimeconfig.json
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/bin/Debug/net6.0/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/bin/Debug/net6.0/Lesson 1.pdb
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.csproj.AssemblyReference.cache
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.AssemblyInfoInputs.cache
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.AssemblyInfo.cs
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.csproj.CoreCompileInputs.cache
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/refint/Lesson 1.dll
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.pdb
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/Lesson 1.genruntimeconfig.cache
+/Users/vladimirermolaev/Desktop/Знакомство с языками программирования/Lesson_1/obj/Debug/net6.0/ref/Lesson 1.dll
